@@ -38,8 +38,6 @@ namespace my222022t
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.ResumeLayout(false);
-
         }
 
         #endregion
